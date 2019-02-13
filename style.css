@@ -1,0 +1,52 @@
+* {
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.nav{
+	margin-right: 5%;
+}
+
+.nav-item{
+	font-size: 1.8rem;
+}
+
+.navbar-brand{
+	margin-left: 5%;
+	font-size: 3rem;
+}
+
+.background-servicii{
+	background: url('images/background1.jpg');
+	background-size: cover;
+}
+
+.servicii, .about-us{
+	margin: 20px 5%;
+	color: white;
+}
+
+.about-us{
+	background-color: rgb(244, 158, 42);
+}
+
+.servicii p{
+	background-color: rgb(84, 76, 50);
+	margin: 0px; 
+	padding: 0px 10px;
+}
+
+.serviciu h2{
+
+}
+
+.logos img{
+	width: 200px;
+	height: 200px;
+	margin: 20px;
+}
+
