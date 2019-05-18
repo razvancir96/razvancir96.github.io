@@ -7,49 +7,38 @@ body{
 	font-family: 'Open Sans', sans-serif;
 }
 
-.nav{
-	margin-right: 5%;
+.content-wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	width: 100vw;
+	background-color: rgb(234, 235, 237);
+	text-align: center;
 }
 
-.nav-item{
-	font-size: 1.8rem;
+#greet-message h1 {
+	margin: 0;
+	margin-bottom: 0.2em;
 }
 
-.navbar-brand{
-	margin-left: 5%;
-	font-size: 3rem;
+#greet-message .subtitle {
+	margin: 0;
+	margin-bottom: 2em;
 }
 
-.background-servicii{
-	background: url('images/background1.jpg');
-	background-size: cover;
+#greet-message img {
+	width: 25px;
+	height: 25px;
 }
 
-.servicii, .about-us, .parteneri{
-	margin: 20px 5%;
-	color: white;
+#greet-message a {
+	text-decoration: none;
+	color: rgb(73, 164, 221);
+	margin-left: 0.5em;
 }
 
-.about-us{
-	background-color: rgb(244, 158, 42);
-}
-
-.servicii p{
-	background-color: rgb(84, 76, 50);
-	margin: 0px; 
-	padding: 0px 10px;
-}
-
-.serviciu h2{
-
-}
-
-.logos img{
-	width: 200px;
-	height: 200px;
-	margin: 20px;
-}
-
-.parteneri {
-	background-color: rgba(0, 0, 0, 0.8);
+#greet-message .professional-social-media {
+	display: flex;
+	justify-content: center;
 }
