@@ -1,4 +1,3 @@
 # razvancir96.github.io
-Experimental site for learning HTML and CSS
+My presentation website (IN CONSTRUCTION)
 
-Just some experiments. I can make it look better!
